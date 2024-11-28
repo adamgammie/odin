@@ -1,0 +1,47 @@
+* {
+    font-family: Roboto;
+}
+
+.nav {
+    background-color: #1F2937;
+    display: flex;
+}
+
+.logo {
+    font-size: 24px;
+    color: #E5E7EB;
+    flex: 1;
+    margin: 1vh;
+    padding: 10px 50px 25px 10px;
+    
+
+}
+
+.navlinks {
+    flex: 1;
+    margin: 1vh;
+    padding: 10px 50px 25px 10px;
+    flex: 3
+}
+
+.navlinks a {
+    font-size: 18px;
+    color: #E5E7EB;
+    text-decoration: none;
+}
+
+.section1 {
+    background-color: #1F2937;
+}
+
+.section1 h1 {
+    font-size: 48px;
+    color: #F9FAF8;
+    font-weight: 900;
+}
+
+.section1 p {
+    font-size: 18px;
+    color: #E5E7EB;
+    position: center;
+}
